@@ -1,0 +1,2 @@
+# Ignore directories created with the default prefix
+plists_*/
